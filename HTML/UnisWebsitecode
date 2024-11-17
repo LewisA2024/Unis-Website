@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Inter Informatica</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <div class="link-container">
+            <a href="#" class="link-box">Inter web</a>
+            <a href="#" class="link-box">Blackboard</a>
+            <a href="#" class="link-box">Correo</a>
+            <a href="#" class="link-box">CAI</a>
+            <a href="#" class="link-box">Programa de clases</a>
+            <a href="#" class="link-box">Calendario Académico</a>
+            <a href="#" class="link-box">Directorio</a>
+            <a href="#" class="link-box">Accesibilidad</a>
+        </div>
+    </header>
+    <h1>
+        <span>Departamento De Informatica</span>
+        <img src="images/Tiger.png" alt="Tigre con Tecnologia" class="tigre-robot">
+    </h1>
+    <div class="header-container">
+        <img src="images/Classrom.png" alt="Salón de Informática" class="header-image">
+        <div class="header-text">
+            <h2>Misión</h2>
+            <p>Formar profesionales competentes en el dinámico campo de la informática destacados por sus ejecutorias, su ética profesional y su solidaridad con su entorno social.</p>
+            <h5>Nuestra Visión</h5>
+            <p>Desarrollar líderes en el campo de la informática, reconociendo y apoyando las ejecutorias de nuestros egresados, su ética profesional, desempeño destacado y contribuciones significativas a la sociedad.</p>
+        </div>
+    </div>
+    
+    <h3 style="text-align:center;">Facultad Jornada Completa</h3>
+    <div class="table-image-container">
+        <table>
+            <tr>
+                <th>Nombre</th>
+                <th>Oficina/Extensión</th>
+                <th>Email/Web</th>
+            </tr>
+            <tr>
+                <td>Luis M. Cardona Hernández</td>
+                <td>E-169, 2246</td>
+                <td><a href="mailto:lcardona@bayamon.inter.edu" class="email-link">lcardona@bayamon.inter.edu</a></td>
+            </tr>
+            <tr>
+                <td>Hacniel Cardona Arroyo</td>
+                <td>E-169, 2246</td>
+                <td><a href="mailto:hcardona@bayamon.inter.edu" class="email-link">hcardona@bayamon.inter.edu</a></td>
+            </tr>
+            <tr>
+                <td>Rafael Nieves Rivera</td>
+                <td>E-169, 2246</td>
+                <td><a href="mailto:rafnieves@bayamon.inter.edu" class="email-link">rafnieves@bayamon.inter.edu</a></td>
+            </tr>
+            <tr>
+                <td>Henry Bruckman Vargas</td>
+                <td>E-170, 2252</td>
+                <td><a href="mailto:hbruckman@bayamon.inter.edu" class="email-link">hbruckman@bayamon.inter.edu</a></td>
+            </tr>
+            <tr>
+                <td>Lourdes González Quiles</td>
+                <td>E-170, 2252</td>
+                <td><a href="mailto:lgonzalez@bayamon.inter.edu" class="email-link">lgonzalez@bayamon.inter.edu</a></td>
+            </tr>
+            <tr>
+                <td>Jonathan Martínez Vázquez</td>
+                <td>E-170, 2252</td>
+                <td><a href="mailto:jmartinezv@bayamon.inter.edu" class="email-link">jmartinezv@bayamon.inter.edu</a></td>
+            </tr>
+        </table>
+        <img src="images/Proffesor.jpg" alt="Profesor de Inter Informatica" class="professor-image">
+    </div>
+    <div class="image-container">
+        <img src="images/lab.jpg" alt="Laboratorio 1" class="footer-image">
+        <img src="images/openart-.jpg" alt="Image 2" class="footer-image">
+        <img src="images/lab2.jpg" alt="Laboratorio 3" class="footer-image">
+    </div>
+
+    <div class="footer-container">
+        <p>
+            La Universidad Interamericana de Puerto Rico posee Licencia de Renovación de 
+            la Junta de Instituciones Postsecundarias de Puerto Rico y todos los programas académicos, 
+            incluyendo los programas de educación en línea, están autorizados por dicha Agencia. 
+            La Universidad Interamericana está acreditada por la Middle States Commission on Higher Education (MSCHE),
+            1007 North Orange Street 4th Floor, MB#166 Wilmington, DE 19801. La MSCHE es una agencia de acreditación 
+            institucional reconocida por el Secretario de Educación de los Estados Unidos de Norteamérica y por el 
+            Council on Higher Education Accreditation (CHEA).
+        </p>
+        <div class="contact-info">
+            <p>Universidad Interamericana de Puerto Rico - Recinto de Bayamón</p>
+            <p>(787) 279-1912</p>
+            <p>interbcinfo@bayamon.inter.edu</p>
+        </div>
+    </div>
+    <div class="copyright">
+        <p>Copyright © 2024 Universidad Interamericana de Puerto Rico - Recinto de Bayamón</p>
+    </div>
+</body>
+</html>
+
